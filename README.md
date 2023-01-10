@@ -39,39 +39,39 @@ Explored on various relations to learn from predictions of:
 ● Describing the distribution of reviews among neighbourhoods.
 
 ● Analysed the busiest host based on neighbourhoods with most listings, number of listings of each room type and most number of reviews. And obtained the following conclusion:
-  ○ Neighbourhood groups Queens and Manhattan have maximum number of reviews {assuming the reviews to be positive}. Hence most busiest hosts belong to these.
+  > Neighbourhood groups Queens and Manhattan have maximum number of reviews {assuming the reviews to be positive}. Hence most busiest hosts belong to these.
   
-  ○ 10 Most listed neighbourhoods that belong to Brooklyn and Manhattan are all highly reviewed as well.
+  > 10 Most listed neighbourhoods that belong to Brooklyn and Manhattan are all highly reviewed as well.
   
-  ○ Dona from Jamaica, Queens is the busiest host according to above analysis.
+  > Dona from Jamaica, Queens is the busiest host according to above analysis.
   
 ● Analysed and explained the reason for traffic in different areas using relation between number of reviews, neighbourhood group, room type, price and availability among different neighbourhood groups. And obtained the following conclusion:
 
-  ○ Most neighbourhoods with high listings are present in Manhattan making it a busy place.
+  > Most neighbourhoods with high listings are present in Manhattan making it a busy place.
   
-  ○ The private rooms are mostly of average price, which makes them affordable to wide range of people and are highly reviewed too to make them prone to traffic.
+  > The private rooms are mostly of average price, which makes them affordable to wide range of people and are highly reviewed too to make them prone to traffic.
   
-  ○ The neighbourhoods with most listings like- Bedford-Stuyvesant, Williamsburg in Brooklyn and Harlem in Manhattan, have most number of private rooms explaining the      traffic there.
+  > The neighbourhoods with most listings like- Bedford-Stuyvesant, Williamsburg in Brooklyn and Harlem in Manhattan, have most number of private rooms explaining the      traffic there.
   
-  ○ Though the shared rooms have least average price, due to lesser listings of this type and it’s least preference, the traffic cannot be expected.
+  > Though the shared rooms have least average price, due to lesser listings of this type and it’s least preference, the traffic cannot be expected.
   
-  ○ Brooklyn and Manhattan having least availability(most-booked) are expected to be prone to traffic.
+  > Brooklyn and Manhattan having least availability(most-booked) are expected to be prone to traffic.
   
-  ○ Thus, number of listings, number of reviews, affordability etc contribute for traffic in certain areas.
+  > Thus, number of listings, number of reviews, affordability etc contribute for traffic in certain areas.
   
 ● Calculated the average revenue per host and plotted it for different neighbourhood groups. Manhattan is found to have highest average revenue.
 
 ● Depicted the price distribution among neighbourhood groups using Violin plot and observed that:
 
-  ○ Brooklyn has an avg price of $80.
+  > Brooklyn has an avg price of $80.
   
-  ○ Manhattan has highest range of price with average around $150.
+  > Manhattan has highest range of price with average around $150.
   
-  ○ Queens and Staten Ialand have nearly same median price.
+  > Queens and Staten Ialand have nearly same median price.
   
-  ○ Bronx, Staten Island and Queens have prices concentrated towards the median price.
+  > Bronx, Staten Island and Queens have prices concentrated towards the median price.
   
-  ○ Staten Island has almost normal distribution of price.
+  > Staten Island has almost normal distribution of price.
   
 Conclusion:
 
